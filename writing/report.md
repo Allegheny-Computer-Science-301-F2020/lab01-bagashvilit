@@ -8,7 +8,7 @@
  - "COVID-19 Tracking App Available To The Public"
 
 -  Reference or article citation.
- - ![link to the article](https://wbhm.org/2020/covid-19-tracking-app-available-to-the-public/)
+ - [link to the article](https://wbhm.org/2020/covid-19-tracking-app-available-to-the-public/)
 
 - Briefly describe the article's premise.
  - This article basically is describing the "GuideSafe™ Exposure Notification App", how it works and why it can be useful for people. Users can identify if they have been in close contact with infected person, so that they can seek for medical help and isolate themselves.
