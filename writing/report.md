@@ -38,25 +38,25 @@
 
 ### Article 2
  -  Article name.
- - Your answer here
+    "Amazon Using AI, Big Data To Accelerate Profits"
 
 -  Reference or article citation.
- - Your answer here
+    [link to the article](https://www.forbes.com/sites/jonmarkman/2017/06/05/amazon-using-ai-big-data-to-accelerate-profits/#361b67b86d55)
 
 - Briefly describe the article's premise.
- - Your answer here
+    The article introduces Amazon Echo look, technology that can evaluate the cloths you are wearing and make sugestions on how to improve your style. And also shows how the data gathered can be monetized.
 
 - What is the ethical concern, in your opinion?
- - Your answer here
+    Even though having a "Personal stylist" sounds like a great idea I agree with the author that it is more like Amazon dictating what is "cool", based on the data that it already gathered and manipulating with it. I think that this may even become a way to massively manipualate with the users, and their prefernces.
 
 - What data is being manipulated in the article?
- - Your answer here
+    Data gathered about the user such as their prefernces, size of cloths, latest trends.
 
 - Briefly describe the analysis, as you understand it.
- - Your answer here
+    The Amazon Echo look takes photo of the person sends to the cloud. Also takes other data such as users prferences, sizes and in combination to the latest fashion trends, gives the user feedback/suggestions on how to improve using some algorithms.
 
 - Who stands to lose or to gain something from this form of analysis?
- - Your answer here
+    I think that the company definitely monetizes this data, and gets profit from it. And I believe that while suggestions may be helpful the users may have privacy concers as well as concern that their style may be manipulated.
 
 
 
